@@ -1462,7 +1462,7 @@ class DeviceCachingAllocator {
           format_size(alloc_size),
           ". GPU ",
           device,
-          " has a total capacty of ",
+          " has a total capacity of ",
           format_size(device_total),
           " of which ",
           format_size(device_free),
